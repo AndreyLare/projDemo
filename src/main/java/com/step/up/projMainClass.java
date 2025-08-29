@@ -5,5 +5,8 @@ public class projMainClass {
         System.out.println("Hello worlds!!");
         System.out.println("Hello worlds!!");
         System.out.println("Hello!");
+        System.out.println("Hello worlds!!");
+        System.out.println("Hello worlds!!");
+        System.out.println("Hello!");
     }
 }
