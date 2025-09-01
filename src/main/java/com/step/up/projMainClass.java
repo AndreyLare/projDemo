@@ -7,11 +7,13 @@ public class projMainClass {
         System.out.println("Hello!");
         System.out.println("Hello worlds!!");
         System.out.println("Hello worlds!!");
+
+        System.out.println("Hello worlds!!");
+        System.out.println("Hello worlds!!");
         System.out.println("Hello!");
-        System.out.println(1123);
-        System.out.println(2123);
-        System.out.println(3);
-        System.out.println(4);
+        System.out.println("Hello worlds!!");
+        System.out.println("Hello worlds!!");
+
     }
 }
 
